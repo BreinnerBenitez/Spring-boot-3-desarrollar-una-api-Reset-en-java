@@ -2,7 +2,7 @@
 
 ![Captura de pantalla de mostrarDatos.jsp](img_dependencia/Json.JPG) 
 
-## estrucutra del proyecto 
+## Estructura del proyecto 
 
 ![Captura de pantalla de mostrarDatos.jsp](img_dependencia/Estructuradeapi.JPG) 
 
