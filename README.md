@@ -4,5 +4,5 @@
 
 ## estrucutra del proyecto 
 
-![Captura de pantalla de mostrarDatos.jsp](img_dependencia/Estructura de api.JPG) 
+![Captura de pantalla de mostrarDatos.jsp](img_dependencia/Estructuradeapi.JPG) 
 
